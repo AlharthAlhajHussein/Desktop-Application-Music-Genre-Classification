@@ -1,0 +1,2 @@
+Music-Genre-Application.exe filter=lfs diff=lfs merge=lfs -text
+Applicaiton-Code/stacking_modelv3.pkl filter=lfs diff=lfs merge=lfs -text
