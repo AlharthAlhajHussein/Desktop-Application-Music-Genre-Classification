@@ -37,13 +37,13 @@ To run the desktop application, download the `Music-Genre-Application.exe` file 
 
 ## 🎥 Demo
 
-[![Watch the demo](https://img.youtube.com/vi/9vnx0FEfwnI/maxresdefault.jpg)](https://www.youtube.com/watch?v=9vnx0FEfwnI)
+[![Watch the demo](https://github.com/AlharthAlhajHussein/Desktop-Applicaiton-Music-Genre-Classification/blob/main/images/video_icon.png)](https://www.youtube.com/watch?v=9vnx0FEfwnI)
 
 Click the image to watch a demo video of the application in action.
 
 ## 📸 Screenshot
 
-![Screenshot](https://github.com/AlharthAlhajHussein/Desktop-Applicaiton-Music-Genre-Classification/blob/main/images/screenshot.png)
+[![Screenshot](https://github.com/AlharthAlhajHussein/Desktop-Applicaiton-Music-Genre-Classification/blob/main/images/screenshot.png)](https://www.youtube.com/watch?v=9vnx0FEfwnI)
 
 ## 📂 Repository Structure
 
